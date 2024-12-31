@@ -1,0 +1,15 @@
+X:\C sharp\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.csproj.AssemblyReference.cache
+X:\C sharp\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+X:\C sharp\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+X:\C sharp\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+X:\C sharp\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+X:\C sharp\Vehicles\Vehicles\bin\Debug\net6.0\Vehicles.exe
+X:\C sharp\Vehicles\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+X:\C sharp\Vehicles\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+X:\C sharp\Vehicles\Vehicles\bin\Debug\net6.0\Vehicles.dll
+X:\C sharp\Vehicles\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+X:\C sharp\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.dll
+X:\C sharp\Vehicles\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+X:\C sharp\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+X:\C sharp\Vehicles\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+X:\C sharp\Vehicles\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
